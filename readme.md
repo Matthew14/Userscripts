@@ -1,0 +1,1 @@
+A place to keep my user scripts (using [TamperMonkey](https://www.tampermonkey.net) for Safari and Firefox)
